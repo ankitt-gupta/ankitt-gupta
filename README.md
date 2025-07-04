@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-` [![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitt-gupta)](https://github.com/ankitt-gupta/github-readme-stats) `
-
-`![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitt-gupta&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) `
-
-`![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitt-gupta&show_icons=true) ``
-
 I'm **Ankit Gupta **, a passionate software developer from India.
 
 -   🔭 I’m currently working on ... (e.g., building a new web application, learning Rust, contributing to open source)
