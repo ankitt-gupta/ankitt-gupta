@@ -2,13 +2,11 @@
 
 I'm **[Ankit Gupta]**, a passionate software developer from India.
 
--   🔭 I’m currently working on ... (e.g., building a new web application, learning Rust, contributing to open source)
--   🌱 I’m currently learning ... (e.g., Next.js, machine learning, cloud computing)
--   👯 I’m looking to collaborate on ... (e.g., open-source projects, interesting side projects, anything related to AI)
--   💬 Ask me about ... (e.g., Python, JavaScript, game development, my favorite coffee)
--   📫 How to reach me: [Your Email Address] or connect with me on [Your LinkedIn Profile Link]
--   😄 Pronouns: [e.g., he/him, she/her, they/them]
--   ⚡ Fun fact: ... (e.g., I can juggle, I speak 3 languages, I love hiking)
+-   🔭 I’m currently working on building a new web application, learning React
+-   🌱 I’m currently learning ReactJS
+-   👯 I’m looking to collaborate on interesting side projects, anything related to AI
+-   💬 Ask me about Java
+-   📫 How to reach me: connect with me on [[Your LinkedIn Profile Link](https://www.linkedin.com/in/ankitgupta56/)]
 
 ---
 
@@ -20,12 +18,8 @@ I'm **[Ankit Gupta]**, a passionate software developer from India.
 
 ---
 
-#### My Latest Blog Posts (Optional - Requires more advanced setup like GitHub Actions)
----
-
 #### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/ankitgupta56/))
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_PROFILE_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PERSONAL_WEBSITE_URL)
 
 ---
