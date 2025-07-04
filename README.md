@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ankitt-gupta/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitt-gupta)](https://github.com/ankitt-gupta/github-readme-stats)
 
 I'm **[Your Name/Nickname]**, a passionate [Your Primary Role/Interest, e.g., software developer, data scientist, aspiring web developer] from [Your Location, e.g., India, Earth].
 
