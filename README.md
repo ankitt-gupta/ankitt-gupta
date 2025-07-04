@@ -13,10 +13,10 @@ I'm **[Ankit Gupta]**, a passionate software developer from India.
 ---
 
 #### My Skills:
--   **Languages:** `Python` | `JavaScript` | `Java` | `HTML` | `CSS`
--   **Frameworks/Libraries:** `React` | `Node.js` | `Django` | `Flask`
--   **Databases:** `PostgreSQL` | `MongoDB` | `MySQL`
--   **Tools:** `Git` | `Docker` | `VS Code` | `Jupyter`
+-   **Languages:**  `Java` | `SQL`
+-   **Frameworks/Libraries:** `React` | `Spring Boot` | `Hibernate` 
+-   **Databases:** `PostgreSQL` | `MySQL`
+-   **Tools:** `Git` | `Docker` | `Kubernetes` | `AWS` | `VS Code` | `STS` | `Intellij`
 
 ---
 
