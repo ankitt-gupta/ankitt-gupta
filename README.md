@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **[Ankit Gupta]**, a passionate software developer from India.
+I'm *Ankit Gupta*, a passionate software developer.
 
 -   🔭 I’m currently working on building a new web application, learning React
 -   🌱 I’m currently learning ReactJS
