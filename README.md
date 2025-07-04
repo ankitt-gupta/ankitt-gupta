@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitt-gupta)](https://github.com/ankitt-gupta/github-readme-stats) ''
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitt-gupta)](https://github.com/ankitt-gupta/github-readme-stats) '' ``
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitt-gupta&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) ''
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitt-gupta&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) ''``
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitt-gupta&show_icons=true) ''
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitt-gupta&show_icons=true) ''``
 
 I'm **[Your Name/Nickname]**, a passionate [Your Primary Role/Interest, e.g., software developer, data scientist, aspiring web developer] from [Your Location, e.g., India, Earth].
 
