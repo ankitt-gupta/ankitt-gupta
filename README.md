@@ -12,9 +12,9 @@ I'm *Ankit Gupta*, a passionate software developer.
 
 ### My Skills:
 -   **Languages:**  `Java` | `SQL`
--   **Frameworks/Libraries:** `React` | `Spring Boot` | `Hibernate` 
--   **Databases:** `PostgreSQL` | `MySQL`
--   **Tools:** `Git` | `Docker` | `Kubernetes` | `AWS` | `VS Code` | `STS` | `Intellij`
+-   **Frameworks/Libraries:** `React` | `Spring Boot` | `Hibernate` | `iBATIS`
+-   **Databases:** `PostgreSQL` | `MySQL` | `Oracle`
+-   **Tools:** `Git` | `Docker` | `Kubernetes` | `AWS` | `VS Code` | `STS` | `Intellij` | `Swagger`
 
 ---
 
