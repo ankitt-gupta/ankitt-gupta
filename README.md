@@ -15,7 +15,6 @@ I'm *Ankit Gupta*, a passionate software developer.
 -   **Frameworks/Libraries:** `React` | `Spring Boot` | `Hibernate` | `iBATIS` | `Microservices`
 -   **Databases:** `PostgreSQL` | `MySQL` | `Oracle`
 -   **Tools:** `Git` | `Docker` | `Kubernetes` | `AWS` | `VS Code` | `STS` | `Intellij` | `Swagger` | `OpenAI`
-
 ---
 
 #### Connect with me:
