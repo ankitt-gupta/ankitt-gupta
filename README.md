@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm *Ankit Gupta*, a passionate software developer.
-
 -   🔭 I’m currently working on building a new web application
 -   🌱 I’m currently learning ReactJS
 -   👯 I’m looking to collaborate on interesting side projects, anything related to AI
