@@ -8,7 +8,6 @@ I'm *Ankit Gupta*, a passionate software developer.
 -   📫 How to reach me: connect with me on [[LinkedIn Profile Link](https://www.linkedin.com/in/ankitgupta56/)]
 
 ---
-
 ### My Skills:
 -   **Languages:**  `Java` | `SQL`
 -   **Frameworks/Libraries:** `React` | `Spring Boot` | `Hibernate` | `iBATIS` | `Microservices`
