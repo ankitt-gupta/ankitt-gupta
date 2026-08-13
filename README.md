@@ -16,11 +16,13 @@ I'm *Ankit Gupta*, a passionate software developer.
 -   **Tools:** `Git` | `Docker` | `Kubernetes` | `AWS` | `VS Code` | `STS` | `Intellij` | `Swagger` | `OpenAI` | `Postman`
 ---
 
+<!-- 
 ### General GitHub Stats Card:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ankitt-gupta&show_icons=true&theme=radial)](https://github.com/stats-organization/github-stats-extended)
 
 ### Most Used Languages Card:
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ankitt-gupta&layout=compact&theme=radial)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ankitt-gupta&layout=compact&theme=radial)](https://github.com/stats-organization/github-stats-extended) 
+-->
 
 ### Streak / Habit Tracker:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitt-gupta&theme=dark)](https://git.io/streak-stats)
