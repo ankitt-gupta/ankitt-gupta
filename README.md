@@ -17,10 +17,11 @@ I'm *Ankit Gupta*, a passionate software developer.
 ---
 
 ### General GitHub Stats Card:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitt-gupta&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ankitt-gupta&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Most Used Languages Card:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitt-gupta&layout=compact&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankitt-gupta&layout=compact&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Streak / Habit Tracker:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitt-gupta&theme=dark)](https://git.io/streak-stats)
