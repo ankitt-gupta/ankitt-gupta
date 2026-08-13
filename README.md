@@ -22,9 +22,9 @@ I'm *Ankit Gupta*, a passionate software developer.
 
 ### Most Used Languages Card:
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ankitt-gupta&layout=compact&theme=radial)](https://github.com/stats-organization/github-stats-extended) 
--->
 
 ### Streak / Habit Tracker:
+-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitt-gupta&theme=dark)](https://git.io/streak-stats)
 
 #### Connect with me: 
