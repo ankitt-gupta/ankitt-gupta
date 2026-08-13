@@ -26,8 +26,7 @@ I'm *Ankit Gupta*, a passionate software developer.
 ### Streak / Habit Tracker:
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitt-gupta&theme=dark)](https://git.io/streak-stats)
+---
 
 #### Connect with me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitgupta56/)
-
----
