@@ -16,6 +16,15 @@ I'm *Ankit Gupta*, a passionate software developer.
 -   **Tools:** `Git` | `Docker` | `Kubernetes` | `AWS` | `VS Code` | `STS` | `Intellij` | `Swagger` | `OpenAI` | `Postman`
 ---
 
+### General GitHub Stats Card:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
+
+### Most Used Languages Card:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
+
+### Streak / Habit Tracker:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)](https://git.io/streak-stats)
+
 #### Connect with me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitgupta56/)
 
