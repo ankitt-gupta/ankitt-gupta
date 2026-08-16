@@ -15,7 +15,6 @@ I'm *Ankit Gupta*, a passionate software developer.
 -   **Databases:** `PostgreSQL` | `MySQL` | `Oracle`
 -   **Tools:** `Git` | `Docker` | `Kubernetes` | `AWS` | `VS Code` | `STS` | `Intellij` | `Swagger` | `OpenAI` | `Postman`
 ---
-
 <!-- 
 ### General GitHub Stats Card:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ankitt-gupta&show_icons=true&theme=radial)](https://github.com/stats-organization/github-stats-extended)
