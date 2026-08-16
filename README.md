@@ -25,7 +25,7 @@ I'm *Ankit Gupta*, a passionate software developer.
 ### Streak / Habit Tracker:
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ankitt-gupta&theme=transparent&hide_border=true&timezone=UTC%2B5%3A30)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ankitt-gupta&theme=transparent&hide_border=true&timezone=%2B5%3A30)](https://git.io/streak-stats)
 
 ---
 
