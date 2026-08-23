@@ -3,10 +3,10 @@ name: Update Streak Stats
 on:
   schedule:
     - cron: "0 0 * * *" # Runs daily at midnight
-  workflow_dispatch: # Allows manual run anytime
+  workflow_dispatch: # Allows manual trigger
   push:
     paths:
-      - ".github/workflows/streak-stats.yml" # Triggers when this file changes
+      - ".github/workflows/streak-stats.yml"
 
 jobs:
   build:
@@ -20,11 +20,8 @@ jobs:
       - name: Generate Streak Stats SVG
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          user: ${{ github.repository_owner }}
-          theme: tokyonight
-          hide_border: true
-          timezone: "+5:30"
-          output: profile/streak.svg
+          options: "user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&timezone=%2B5%3A30"
+          path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit Updated SVG
